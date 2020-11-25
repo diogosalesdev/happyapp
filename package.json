@@ -3,8 +3,10 @@
   "private": true,
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/diogosalesdev/happyapp.git",
+  "author": "Diogo Sales <diogosalesdev@gmail.com>",
   "license": "MIT",
-  "workspaces":[
+  "workspaces": [
     "packages/*"
   ]
 }
